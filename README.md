@@ -5,7 +5,8 @@
 
 
 ## Arkkitehtuurikuva
-![Arkkitehtuurikaavio](https://github.com/JaniHeikkila/Tietoliikenteen-sovellusprojekti-Ryhm16/assets/122256151/73d8d8ff-fda6-48a6-8c89-20f129be9979)
+
+![Arkkitehtuurikaavio](https://github.com/JaniHeikkila/Tietoliikenteen-sovellusprojekti-Ryhm16/assets/118254112/8ed62581-25f8-4390-8a38-4be8e8c2f755)
 
 
 >Tähän projektin kuvausta
