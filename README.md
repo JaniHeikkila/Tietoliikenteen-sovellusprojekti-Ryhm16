@@ -1,5 +1,5 @@
 # Tietoliikenteen sovellusprojekti
->Tekijät
+>Tekijät:
 >Tomas Paananen 
 >Jani Heikkilä
 
