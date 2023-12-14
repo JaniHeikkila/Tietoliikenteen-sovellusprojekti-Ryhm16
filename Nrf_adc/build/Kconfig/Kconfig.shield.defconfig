@@ -1,0 +1,2 @@
+osource "c:/nordic/bt-fund/lesson4/blefund_less4_exer1/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.4.2/nrf/boards/shields/*/Kconfig.defconfig"
